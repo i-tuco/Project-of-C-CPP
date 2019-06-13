@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/icon-home.png</file>
+        <file>imgs/icon-home-active.png</file>
+        <file>imgs/icon-home-fill.png</file>
+        <file>imgs/icon-home-fill2.png</file>
+        <file>imgs/icon-home-fill-active.png</file>
+        <file>imgs/icon-home-fill-bf.png</file>
+        <file>imgs/icon-people.png</file>
+        <file>imgs/icon-people-33.png</file>
+        <file>imgs/icon-people-active.png</file>
+        <file>imgs/icon-shop.png</file>
+        <file>imgs/icon-shop-33.png</file>
+        <file>imgs/icon-shop-active.png</file>
+    </qresource>
+</RCC>
